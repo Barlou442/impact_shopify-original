@@ -169,10 +169,36 @@
         "background": "#ffffff",
         "background_gradient": "",
         "heading_text_color": "",
-        "heading_gradient": "linear-gradient(180deg, rgba(36, 77, 216, 1), rgba(26, 26, 26, 0) 100%)",
+        "heading_gradient": "linear-gradient(180deg, rgba(46, 39, 226, 1), rgba(26, 26, 26, 0) 100%)",
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
+      }
+    },
+    "featured_collection_edWE4m": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "ensembles",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_count": 6,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Ensembles",
+        "content": "",
+        "link_url": "",
+        "link_text": "Tout voir",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
       }
     },
     "media-grid": {
@@ -373,32 +399,6 @@
         "accordion_background": "#000000",
         "accordion_text_color": "#ffffff"
       }
-    },
-    "featured_collection_edWE4m": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "ensembles",
-        "products": [],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": true,
-        "products_count": 6,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Ensembles",
-        "content": "",
-        "link_url": "",
-        "link_text": "View all",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
     }
   },
   "order": [
@@ -407,9 +407,9 @@
     "featured-collection",
     "featured_collection_bEP4dH",
     "impact-text",
+    "featured_collection_edWE4m",
     "media-grid",
     "press",
-    "faq",
-    "featured_collection_edWE4m"
+    "faq"
   ]
 }
