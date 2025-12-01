@@ -30,14 +30,14 @@
         "customer-support": {
           "type": "item",
           "settings": {
-            "icon": "picto-customer-support",
+            "icon": "picto-credit-card",
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "none",
             "icon_background": "#ffffff",
             "icon_color": "#ffffff",
-            "title": "Customer service",
-            "content": "<p>Tell your customers how they can reach you.</p>"
+            "title": "Achats sécurisés",
+            "content": "<p>Achetez en toute tranquillité par tous les plus grands moyen de paiement et tous ça en toute sécurité.</p>"
           }
         },
         "discount": {
