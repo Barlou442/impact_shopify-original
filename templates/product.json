@@ -61,6 +61,10 @@
             "size_chart_page": ""
           }
         },
+        "avis_product_options_avisplus_options_block_7YVYYR": {
+          "type": "shopify://apps/avis-product-options/blocks/avisplus-options-block/e076618e-4c9c-447f-ad6d-4f1577799c29",
+          "settings": {}
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {}
@@ -86,6 +90,7 @@
         "separator",
         "description",
         "variant_picker",
+        "avis_product_options_avisplus_options_block_7YVYYR",
         "quantity_selector",
         "buy_buttons"
       ],
