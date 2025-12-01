@@ -146,6 +146,42 @@
         "item_6WEgE9": {
           "type": "item",
           "settings": {
+            "title": "98%",
+            "subheading": "Taux de satisfaction",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_6WEgE9"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "impact_text_9jeLbi": {
+      "type": "impact-text",
+      "blocks": {
+        "item_9n8ER8": {
+          "type": "item",
+          "settings": {
             "title": "100%",
             "subheading": "Showcase a benefit of your product",
             "content": "",
@@ -157,7 +193,43 @@
         }
       },
       "block_order": [
-        "item_6WEgE9"
+        "item_9n8ER8"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "impact_text_NTL3Ph": {
+      "type": "impact-text",
+      "blocks": {
+        "item_pnA9M4": {
+          "type": "item",
+          "settings": {
+            "title": "100%",
+            "subheading": "Showcase a benefit of your product",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_pnA9M4"
       ],
       "name": "Impact text",
       "settings": {
@@ -443,6 +515,8 @@
     "featured-collection",
     "featured_collection_bEP4dH",
     "impact_text_cXyFCq",
+    "impact_text_9jeLbi",
+    "impact_text_NTL3Ph",
     "impact-text",
     "featured_collection_edWE4m",
     "media-grid",
