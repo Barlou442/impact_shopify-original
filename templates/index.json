@@ -196,7 +196,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/IMG_2651_46dd9878-65b3-40d5-881c-160c117b5b97.jpg",
-            "title": "Promote your products",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -218,7 +218,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/IMG_2652_a31b4844-886e-4e99-a6c8-121db481befa.jpg",
-            "title": "Promote your products",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -240,7 +240,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/IMG_2653.jpg",
-            "title": "Promote your products",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -261,7 +261,8 @@
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/IMG_2650.jpg",
+            "title": "",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
