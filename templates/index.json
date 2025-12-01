@@ -118,7 +118,7 @@
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "collection": "",
+        "collection": "best-seller",
         "products": [],
         "full_width": true,
         "stack_products": false,
