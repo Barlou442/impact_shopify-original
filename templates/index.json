@@ -146,8 +146,8 @@
         "1664424181b38582d5-0": {
           "type": "item",
           "settings": {
-            "title": "100%",
-            "subheading": "Showcase a benefit of your product",
+            "title": "PROMOTION",
+            "subheading": "",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -169,7 +169,7 @@
         "background": "#ffffff",
         "background_gradient": "",
         "heading_text_color": "",
-        "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)",
+        "heading_gradient": "linear-gradient(180deg, rgba(36, 77, 216, 1), rgba(26, 26, 26, 0) 100%)",
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
