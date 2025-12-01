@@ -424,9 +424,9 @@
           "settings": {
             "logo_width": 100,
             "author": "",
-            "content": "Share info about what your customers say about your products.",
-            "show_rating": false,
-            "rating": 4
+            "content": "Très bonne qualité, livraison rapide quoi de mieux!",
+            "show_rating": true,
+            "rating": 5
           }
         },
         "16644243327ba53d2a-1": {
@@ -434,8 +434,8 @@
           "settings": {
             "logo_width": 100,
             "author": "",
-            "content": "Or share content about your promotion, offers...",
-            "show_rating": false,
+            "content": "Livraison offerte, prix convenable et bonne qualité",
+            "show_rating": true,
             "rating": 4
           }
         }
