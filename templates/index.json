@@ -456,6 +456,32 @@
         "logo_item_border": ""
       }
     },
+    "featured_collection_KiN4kT": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "coupe-du-monde-2026",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_count": 6,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Coupe du Monde 2026",
+        "content": "",
+        "link_url": "",
+        "link_text": "Tout voir",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -507,32 +533,6 @@
         "accordion_background": "#000000",
         "accordion_text_color": "#ffffff"
       }
-    },
-    "featured_collection_KiN4kT": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "coupe-du-monde-2026",
-        "products": [],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": true,
-        "products_count": 6,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Coupe du Monde 2026",
-        "content": "",
-        "link_url": "",
-        "link_text": "Tout voir",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
     }
   },
   "order": [
@@ -547,7 +547,7 @@
     "featured_collection_edWE4m",
     "media-grid",
     "press",
-    "faq",
-    "featured_collection_KiN4kT"
+    "featured_collection_KiN4kT",
+    "faq"
   ]
 }
