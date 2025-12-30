@@ -89,32 +89,6 @@
         "text_gradient": ""
       }
     },
-    "featured_collection_KiN4kT": {
-      "type": "featured-collection",
-      "name": "Featured collection",
-      "settings": {
-        "collection": "coupe-du-monde-2026",
-        "products": [],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": true,
-        "products_count": 6,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "Coupe du Monde 2026",
-        "content": "",
-        "link_url": "",
-        "link_text": "Tout voir",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
@@ -134,6 +108,32 @@
         "products_per_row_desktop": 4,
         "subheading": "",
         "title": "Nouveauté",
+        "content": "",
+        "link_url": "",
+        "link_text": "Tout voir",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "featured_collection_KiN4kT": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "coupe-du-monde-2026",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_count": 6,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Coupe du Monde 2026",
         "content": "",
         "link_url": "",
         "link_text": "Tout voir",
@@ -544,8 +544,8 @@
   "order": [
     "slideshow",
     "scrolling-text",
-    "featured_collection_KiN4kT",
     "featured-collection",
+    "featured_collection_KiN4kT",
     "impact_text_cXyFCq",
     "impact_text_9jeLbi",
     "impact_text_NTL3Ph",
