@@ -539,6 +539,32 @@
         "accordion_background": "#000000",
         "accordion_text_color": "#ffffff"
       }
+    },
+    "featured_collection_nKEbh9": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "veste",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Veste",
+        "content": "",
+        "link_url": "",
+        "link_text": "Tout voir",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
     }
   },
   "order": [
@@ -554,6 +580,7 @@
     "featured_collection_bEP4dH",
     "media-grid",
     "press",
-    "faq"
+    "faq",
+    "featured_collection_nKEbh9"
   ]
 }
