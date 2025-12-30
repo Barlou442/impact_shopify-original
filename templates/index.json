@@ -126,7 +126,13 @@
       "name": "Featured collection",
       "settings": {
         "collection": "coupe-du-monde-2026",
-        "products": [],
+        "products": [
+          "maillot-bresil-exterieur-2026",
+          "maillot-portugal-exterieur-2026",
+          "maillot-allemagne-exterieur-2026",
+          "maillot-algerie-domicile-2026",
+          "maillot-colombie-exterieur-2026"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": true,
