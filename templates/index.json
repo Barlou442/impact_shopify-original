@@ -321,7 +321,14 @@
       "name": "Featured collection",
       "settings": {
         "collection": "veste",
-        "products": [],
+        "products": [
+          "veste-fc-barcelone-noir-et-bleu",
+          "veste-arsenal",
+          "veste-real-madrid-reversible-1",
+          "veste-reversible-5",
+          "veste-psg-x-jordan-blanche",
+          "veste-manchester-united-reversible-2"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": true,
