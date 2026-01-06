@@ -11,6 +11,77 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
+    "collection_list_DkrmL6": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_c7VR9Q": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_CRDWh9": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_69i3tF": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_c7VR9Q",
+        "collection_CRDWh9",
+        "collection_69i3tF"
+      ],
+      "custom_css": [],
+      "name": "Collection list",
+      "settings": {
+        "full_width": true,
+        "stack_collections": false,
+        "collections_per_row_mobile": "1",
+        "collections_per_row": 3,
+        "show_progress_bar": false,
+        "subheading": "",
+        "title": "Collection list",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
@@ -56,14 +127,14 @@
         "payment": {
           "type": "item",
           "settings": {
-            "icon": "picto-lock",
+            "icon": "picto-coupon",
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Tel your customers about your payment methods.</p>"
+            "title": "Prix bas",
+            "content": "<p>Tous nos maillots sont à seulement 24,99€</p>"
           }
         }
       },
@@ -122,6 +193,7 @@
     }
   },
   "order": [
+    "collection_list_DkrmL6",
     "text-with-icons",
     "footer"
   ]
