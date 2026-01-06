@@ -51,6 +51,7 @@
     "cart_type": "popover",
     "cart_icon": "shopping_basket",
     "social_tiktok": "https://www.tiktok.com/@maillots.factory?_r=1&_t=ZN-92nv9cou42g",
+    "favicon": "shopify://shop_images/Untitled_design.png",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
     "content_for_index": [],
@@ -68,6 +69,11 @@
       "6615124273980966592": {
         "type": "shopify://apps/chatty/blocks/app-embed/1c0e135d-e8e1-4fe2-86be-1c36def46675",
         "disabled": true,
+        "settings": {}
+      },
+      "2104245418471043333": {
+        "type": "shopify://apps/17track/blocks/app-embed/1519e068-e330-4e0b-92dd-0a3263bfceda",
+        "disabled": false,
         "settings": {}
       }
     }
